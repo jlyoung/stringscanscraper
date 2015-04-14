@@ -29,7 +29,7 @@ python app.py
 
 ### Using the API
 The REST API has one end-point `/matches`.
-`/matchs` accepts an `HTTP POST` which must contain: 
+`/matches` accepts an `HTTP POST` which must contain: 
 * a search term
   * `searchterm=Terms you're searching for`
 * a list of urls to search
