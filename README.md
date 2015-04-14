@@ -1,5 +1,5 @@
 # stringscanscraper
-stringscanscraper is a web application and API that will accept a search term and a lit of urls as input.
+stringscanscraper is a web application and API that will accept a search term and a list of urls as input.
 stringscanscraper will search each url in the input list for the search term. 
 It will then return a subset of the orignal list of urls which contain the search term.
 
