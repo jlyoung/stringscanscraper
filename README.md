@@ -4,7 +4,7 @@ stringscanscraper will search each url in the input list for the search term.
 It will then return a subset of the orignal list of urls which contain the search term.
 
 ### Prerequisites
-The following is required to run this application:
+The following are required to run this application:
 * [Python](https://www.python.org/downloads/)
 * [pip](https://pip.pypa.io/en/stable/installing.html)
 
