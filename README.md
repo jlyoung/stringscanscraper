@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ### Starting the API service
 Startup the application by running the following on your command line:
 ```
-python app.py
+python api.py
 ```
 
 ### Using the API
